@@ -1,0 +1,5 @@
+{
+  "name": "DebugSense",
+  "description": "A technical debugging support tool that explains errors and provides code fixes using AI.",
+  "requestFramePermissions": []
+}
